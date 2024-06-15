@@ -1,0 +1,472 @@
+{
+    "data": {
+      "questions": [
+      {
+        "question": "Ile wynosi suma kątów wewnętrznych w trójkącie?",
+        "option_1": "90 stopni",
+        "option_2": "120 stopni",
+        "option_3": "180 stopni",
+        "option_4": "360 stopni",
+        "correct_answer": "180 stopni"
+      },
+      {
+        "question": "Jaka jest pierwiastkowa liczba 144?",
+        "option_1": "12",
+        "option_2": "14",
+        "option_3": "16",
+        "option_4": "18",
+        "correct_answer": "12"
+      },
+      {
+        "question": "Rozwiąż równanie: 2x + 5 = 15",
+        "option_1": "x = 5",
+        "option_2": "x = 7",
+        "option_3": "x = 8",
+        "option_4": "x = 10",
+        "correct_answer": "x = 5"
+      },
+      {
+        "question": "Jaki jest obwód koła o promieniu 7 cm? (π ≈ 3.14)",
+        "option_1": "14 cm",
+        "option_2": "21 cm",
+        "option_3": "28 cm",
+        "option_4": "42 cm",
+        "correct_answer": "14 cm"
+      },
+      {
+        "question": "Ile wynosi pierwiastek kwadratowy z liczby 25?",
+        "option_1": "3",
+        "option_2": "5",
+        "option_3": "7",
+        "option_4": "10",
+        "correct_answer": "5"
+      },
+      {
+        "question": "Który z podanych kątów jest kątem prostym?",
+        "option_1": "30 stopni",
+        "option_2": "60 stopni",
+        "option_3": "90 stopni",
+        "option_4": "120 stopni",
+        "correct_answer": "90 stopni"
+      },
+      {
+        "question": "Rozwiązanie równania: 3y - 7 = 14",
+        "option_1": "y = 7",
+        "option_2": "y = 8",
+        "option_3": "y = 9",
+        "option_4": "y = 21",
+        "correct_answer": "y = 7"
+      },
+      {
+        "question": "Ile wynosi pole prostokąta o bokach 6 cm i 8 cm?",
+        "option_1": "24 cm²",
+        "option_2": "36 cm²",
+        "option_3": "42 cm²",
+        "option_4": "48 cm²",
+        "correct_answer": "48 cm²"
+      },
+      {
+        "question": "Jaki jest iloczyn 9 i 7?",
+        "option_1": "56",
+        "option_2": "63",
+        "option_3": "72",
+        "option_4": "81",
+        "correct_answer": "63"
+      },
+      {
+        "question": "Rozwiązanie równania: 4z + 2 = 18",
+        "option_1": "z = 2",
+        "option_2": "z = 4",
+        "option_3": "z = 5",
+        "option_4": "z = 6",
+        "correct_answer": "z = 4"
+      },
+      {
+        "question": "Jaka jest suma wszystkich kątów w czworokącie?",
+        "option_1": "180 stopni",
+        "option_2": "270 stopni",
+        "option_3": "360 stopni",
+        "option_4": "450 stopni",
+        "correct_answer": "360 stopni"
+      },
+      {
+        "question": "Ile wynosi pierwiastek kwadratowy z liczby 49?",
+        "option_1": "5",
+        "option_2": "7",
+        "option_3": "9",
+        "option_4": "11",
+        "correct_answer": "7"
+      },
+      {
+        "question": "Rozwiązanie równania: 2a - 3 = 13",
+        "option_1": "a = 5",
+        "option_2": "a = 6",
+        "option_3": "a = 8",
+        "option_4": "a = 10",
+        "correct_answer": "a = 8"
+      },
+      {
+        "question": "Jaki jest obwód kwadratu o boku 9 cm?",
+        "option_1": "27 cm",
+        "option_2": "36 cm",
+        "option_3": "45 cm",
+        "option_4": "54 cm",
+        "correct_answer": "36 cm"
+      },
+      {
+        "question": "Ile wynosi iloczyn 5 i 6?",
+        "option_1": "25",
+        "option_2": "30",
+        "option_3": "35",
+        "option_4": "40",
+        "correct_answer": "30"
+      },
+      {
+        "question": "Rozwiązanie równania: 3b + 1 = 16",
+        "option_1": "b = 3",
+        "option_2": "b = 5",
+        "option_3": "b = 7",
+        "option_4": "b = 9",
+        "correct_answer": "b = 5"
+      },
+      {
+        "question": "Jaki jest pierwiastek kwadratowy z liczby 81?",
+        "option_1": "7",
+        "option_2": "8",
+        "option_3": "9",
+        "option_4": "10",
+        "correct_answer": "9"
+      },
+      {
+        "question": "Rozwiązanie równania: 4c - 5 = 11",
+        "option_1": "c = 3",
+        "option_2": "c = 4",
+        "option_3": "c = 5",
+        "option_4": "c = 6",
+        "correct_answer": "c = 4"
+      },
+      {
+        "question": "Jaka jest suma kątów prostych?",
+        "option_1": "90 stopni",
+        "option_2": "180 stopni",
+        "option_3": "270 stopni",
+        "option_4": "360 stopni",
+        "correct_answer": "180 stopni"
+      },
+          {
+            "question": "Jaki jest iloczyn 3 i 9?",
+            "option_1": "18",
+            "option_2": "21",
+            "option_3": "24",
+            "option_4": "27",
+            "correct_answer": "27"
+          },
+          {
+            "question": "Rozwiązanie równania: 5x - 8 = 22",
+            "option_1": "x = 3",
+            "option_2": "x = 5",
+            "option_3": "x = 6",
+            "option_4": "x = 7",
+            "correct_answer": "x = 6"
+          },
+          {
+            "question": "Jaki jest pierwiastek kwadratowy z liczby 64?",
+            "option_1": "6",
+            "option_2": "7",
+            "option_3": "8",
+            "option_4": "9",
+            "correct_answer": "8"
+          },
+          {
+            "question": "Rozwiązanie równania: 2y + 4 = 14",
+            "option_1": "y = 4",
+            "option_2": "y = 5",
+            "option_3": "y = 6",
+            "option_4": "y = 7",
+            "correct_answer": "y = 5"
+          },
+          {
+            "question": "Jaki jest obwód trapezu o podstawach 6 cm i 8 cm oraz bokach 5 cm?",
+            "option_1": "20 cm",
+            "option_2": "24 cm",
+            "option_3": "28 cm",
+            "option_4": "32 cm",
+            "correct_answer": "28 cm"
+          },
+          {
+            "question": "Ile wynosi suma kątów wewnętrznych w pięciokącie?",
+            "option_1": "180 stopni",
+            "option_2": "360 stopni",
+            "option_3": "540 stopni",
+            "option_4": "720 stopni",
+            "correct_answer": "540 stopni"
+          },
+          {
+            "question": "Rozwiązanie równania: 3z - 7 = 10",
+            "option_1": "z = 3",
+            "option_2": "z = 4",
+            "option_3": "z = 5",
+            "option_4": "z = 6",
+            "correct_answer": "z = 5"
+          },
+          {
+            "question": "Jaki jest iloczyn 7 i 8?",
+            "option_1": "48",
+            "option_2": "54",
+            "option_3": "56",
+            "option_4": "64",
+            "correct_answer": "56"
+          },
+          {
+            "question": "Rozwiązanie równania: 4a + 3 = 15",
+            "option_1": "a = 2",
+            "option_2": "a = 3",
+            "option_3": "a = 4",
+            "option_4": "a = 5",
+            "correct_answer": "a = 3"
+          },
+          {
+            "question": "Jaki jest pole trójkąta o podstawie 10 cm i wysokości 8 cm?",
+            "option_1": "40 cm²",
+            "option_2": "48 cm²",
+            "option_3": "50 cm²",
+            "option_4": "60 cm²",
+            "correct_answer": "40 cm²"
+          },
+          {
+            "question": "Ile wynosi pierwiastek kwadratowy z liczby 100?",
+            "option_1": "8",
+            "option_2": "9",
+            "option_3": "10",
+            "option_4": "11",
+            "correct_answer": "10"
+          },
+          {
+            "question": "Rozwiązanie równania: 2b - 5 = 11",
+            "option_1": "b = 4",
+            "option_2": "b = 5",
+            "option_3": "b = 6",
+            "option_4": "b = 7",
+            "correct_answer": "b = 8"
+          },
+          {
+            "question": "Jaki jest obwód prostokąta o bokach 12 cm i 5 cm?",
+            "option_1": "22 cm",
+            "option_2": "34 cm",
+            "option_3": "40 cm",
+            "option_4": "54 cm",
+            "correct_answer": "34 cm"
+          },
+          {
+            "question": "Ile wynosi suma kątów w czworokącie foremnym?",
+            "option_1": "270 stopni",
+            "option_2": "360 stopni",
+            "option_3": "450 stopni",
+            "option_4": "540 stopni",
+            "correct_answer": "360 stopni"
+          },
+          {
+            "question": "Rozwiązanie równania: 5c - 2 = 23",
+            "option_1": "c = 3",
+            "option_2": "c = 4",
+            "option_3": "c = 5",
+            "option_4": "c = 6",
+            "correct_answer": "c = 5"
+          },
+          {
+            "question": "Jaki jest pierwiastek kwadratowy z liczby 121?",
+            "option_1": "9",
+            "option_2": "10",
+            "option_3": "11",
+            "option_4": "12",
+            "correct_answer": "11"
+          },
+          {
+            "question": "Rozwiązanie równania: 3x + 7 = 16",
+            "option_1": "x = 3",
+            "option_2": "x = 4",
+            "option_3": "x = 5",
+            "option_4": "x = 6",
+            "correct_answer": "x = 3"
+          },
+          {
+            "question": "Jaki jest iloczyn 6 i 9?",
+            "option_1": "42",
+            "option_2": "45",
+            "option_3": "54",
+            "option_4": "63",
+            "correct_answer": "54"
+          },
+          {
+            "question": "Rozwiązanie równania: 2y + 6 = 18",
+            "option_1": "y = 6",
+            "option_2": "y = 7",
+            "option_3": "y = 8",
+            "option_4": "y = 9",
+            "correct_answer": "y = 6"
+          },
+          {
+                "question": "Oblicz: 2 * (3 + 4)",
+                "option_1": "10",
+                "option_2": "14",
+                "option_3": "16",
+                "option_4": "20",
+                "correct_answer": "14"
+              },
+              {
+                "question": "Rozwiązanie równania: 2x - 5 = 7",
+                "option_1": "x = 2",
+                "option_2": "x = 4",
+                "option_3": "x = 6",
+                "option_4": "x = 8",
+                "correct_answer": "x = 6"
+              },
+              {
+                "question": "Ile wynosi 7 * 9?",
+                "option_1": "54",
+                "option_2": "63",
+                "option_3": "70",
+                "option_4": "81",
+                "correct_answer": "63"
+              },
+              {
+                "question": "Rozwiązanie równania: 3y + 2 = 11",
+                "option_1": "y = 2",
+                "option_2": "y = 3",
+                "option_3": "y = 4",
+                "option_4": "y = 5",
+                "correct_answer": "y = 3"
+              },
+              {
+                "question": "Oblicz: 18 / (3 + 2)",
+                "option_1": "2",
+                "option_2": "3",
+                "option_3": "4",
+                "option_4": "6",
+                "correct_answer": "3"
+              },
+              {
+                "question": "Rozwiązanie równania: 4z - 7 = 9",
+                "option_1": "z = 2",
+                "option_2": "z = 3",
+                "option_3": "z = 4",
+                "option_4": "z = 5",
+                "correct_answer": "z = 4"
+              },
+              {
+                "question": "Ile wynosi (5 * 3) + (2 * 4)?",
+                "option_1": "19",
+                "option_2": "20",
+                "option_3": "21",
+                "option_4": "22",
+                "correct_answer": "22"
+              },
+              {
+                "question": "Rozwiązanie równania: 6 / a = 2",
+                "option_1": "a = 2",
+                "option_2": "a = 3",
+                "option_3": "a = 4",
+                "option_4": "a = 5",
+                "correct_answer": "a = 3"
+              },
+              {
+                "question": "Oblicz: 5 * (4 - 2)",
+                "option_1": "8",
+                "option_2": "10",
+                "option_3": "12",
+                "option_4": "14",
+                "correct_answer": "10"
+              },
+              {
+                "question": "Rozwiązanie równania: 15 / b = 5",
+                "option_1": "b = 2",
+                "option_2": "b = 3",
+                "option_3": "b = 4",
+                "option_4": "b = 5",
+                "correct_answer": "b = 3"
+              },
+                  {
+                    "question": "Oblicz: (2 + 3) * (4 - 1)",
+                    "option_1": "15",
+                    "option_2": "18",
+                    "option_3": "21",
+                    "option_4": "24",
+                    "correct_answer": "15"
+                  },
+                  {
+                    "question": "Rozwiązanie równania: 3x + 4 = 16",
+                    "option_1": "x = 4",
+                    "option_2": "x = 5",
+                    "option_3": "x = 6",
+                    "option_4": "x = 7",
+                    "correct_answer": "x = 4"
+                  },
+                  {
+                    "question": "Ile wynosi (6 * 2) + (4 / 2)?",
+                    "option_1": "12",
+                    "option_2": "14",
+                    "option_3": "16",
+                    "option_4": "18",
+                    "correct_answer": "14"
+                  },
+                  {
+                    "question": "Rozwiązanie równania: 5y - 3 = 22",
+                    "option_1": "y = 5",
+                    "option_2": "y = 6",
+                    "option_3": "y = 7",
+                    "option_4": "y = 8",
+                    "correct_answer": "y = 5"
+                  },
+                  {
+                    "question": "Oblicz: (9 / 3) * (2 + 1)",
+                    "option_1": "9",
+                    "option_2": "12",
+                    "option_3": "15",
+                    "option_4": "18",
+                    "correct_answer": "9"
+                  },
+                  {
+                    "question": "Rozwiązanie równania: 2z - 5 = 11",
+                    "option_1": "z = 6",
+                    "option_2": "z = 7",
+                    "option_3": "z = 8",
+                    "option_4": "z = 9",
+                    "correct_answer": "z = 8"
+                  },
+                  {
+                    "question": "Ile wynosi (4 * 3) + (7 / 2)?",
+                    "option_1": "17",
+                    "option_2": "18.5",
+                    "option_3": "19",
+                    "option_4": "20.5",
+                    "correct_answer": "18.5"
+                  },
+                  {
+                    "question": "Rozwiązanie równania: 4 / a = 2",
+                    "option_1": "a = 1",
+                    "option_2": "a = 2",
+                    "option_3": "a = 3",
+                    "option_4": "a = 4",
+                    "correct_answer": "a = 2"
+                  },
+                  {
+                    "question": "Oblicz: (7 - 2) * (3 + 1)",
+                    "option_1": "20",
+                    "option_2": "22",
+                    "option_3": "24",
+                    "option_4": "26",
+                    "correct_answer": "20"
+                  },
+                  {
+                    "question": "Rozwiązanie równania: 18 / b = 3",
+                    "option_1": "b = 4",
+                    "option_2": "b = 5",
+                    "option_3": "b = 6",
+                    "option_4": "b = 7",
+                    "correct_answer": "b = 6"
+                }
+                ]
+              }
+    }
+
+            
